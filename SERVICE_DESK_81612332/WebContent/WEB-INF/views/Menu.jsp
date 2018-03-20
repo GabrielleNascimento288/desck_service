@@ -1,7 +1,9 @@
-<%-- 81612332 Gabrielle Nascimento da Anunciação SIN3AN-MCA | USJT MOOCA--%>
-
-
  <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+ 
+/**
+ * 
+ * @author Gabrielle Nascimento da Anunciação ra: 81612332
+ */
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <div class="navbar-header">
@@ -12,13 +14,10 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="index">Sistema de Chamados</a>
-               
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="listar_filas_exibir">Consultar Chamados</a>
-                    </li>
-                    <li><a href="listar_filas">Novo Chamado</a>
                     </li>
                 </ul>
             </div>

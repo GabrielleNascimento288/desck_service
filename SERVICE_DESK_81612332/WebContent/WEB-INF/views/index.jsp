@@ -1,10 +1,12 @@
-<%-- 81612332 Gabrielle Nascimento da Anunciação | USJT MOOCA--%>
-
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <!DOCTYPE html>
 <html>
 
+/**
+ * 
+ * @author Gabrielle Nascimento da Anunciação ra: 81612332
+ */
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
@@ -22,9 +24,9 @@
     <div id="main" class="container">
     	<br><br>
         <div class="jumbotron">
-            <h2> Sistema de Chamados </h2>
-            <h1>Arquitetura de Software</h1>
-            <p> 81612332 Gabrielle Nascimento da Anunciação</p>
+            <h1> Sistema de Chamados </h1>
+            <p>Arquitetura de Software</p>
+            <p>Gabrielle Nascimento da Anunciação Ra: 81612332</p>
             <span class="glyphicon glyphicon-copyright-mark" aria-hidden="true"></span> USJT - 2018
         </div>
     </div>

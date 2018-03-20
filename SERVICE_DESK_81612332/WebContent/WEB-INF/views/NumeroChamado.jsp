@@ -1,5 +1,9 @@
 <%-- 81612332 Gabrielle Nascimento da Anunciação SIN3AN-MCA | USJT MOOCA--%>
 
+/**
+ * 
+ * @author Gabrielle Nascimento da Anunciação ra: 81612332
+ */
 
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
